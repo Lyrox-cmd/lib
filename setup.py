@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='Lyrox',
-    version='1.2.0.',
+    version='1.2.0',
     description='Tg; @LyroxPy',
     long_description_content_type='text/markdown',
     author='Lyrox',
