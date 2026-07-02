@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="Lyrox",
-    version="1.0.2",
+    version="1.4.3",
     py_modules=["Lyrox"],
     install_requires=["base91"],
     author="Lyrox",
